@@ -16,7 +16,7 @@ __pycache__/
 *.png
 
 # Secrets — NEVER commit these
-.env
+*.env
 *.key
 credentials.json
 
